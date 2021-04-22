@@ -15,6 +15,12 @@ College: K J Somaiya College Of Engineering
 
 Topic : Formation of SQL from Natural Language Query using NLP
 
+Scope:
+  This project is focused towards queries generation related to railway database
+  The model provides two types of queries:
+    Getting train information by source and destinaton as input, 
+    User asks about the fare of specific train as per the class of bogey.
+
 Required dependencies:
   Pandas, nltk, os, re, string
   Some nltk functions may require to install seperately:
