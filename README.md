@@ -22,7 +22,9 @@ Scope:
     User asks about the fare of specific train as per the class of bogey.
 
 Required dependencies:
+
   Pandas, nltk, os, re, string
+  
   Some nltk functions may require to install seperately:
   PorterStemmer, WordNetLemmatizer, word_tokenize
 
