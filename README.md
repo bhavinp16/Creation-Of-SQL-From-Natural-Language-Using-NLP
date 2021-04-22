@@ -27,9 +27,11 @@ Required dependencies:
   
   Some nltk functions may require to install seperately:
   PorterStemmer, WordNetLemmatizer, word_tokenize
+  
+  NLTK's POS (Part Of Speech Tagger) is used
 
 To install the dependencies use
-  pip3 install <dependency name>
+  pip3 install [dependency name]
   
 Instructions:
   Inside the input folder test.csv file under the text column
