@@ -37,9 +37,10 @@ To install the dependencies use
   pip3 install [dependency name]
   <br /><br /><br />
 Instructions:
+  <br />
   Inside the input folder test.csv file under the text column
   the data enteries act as the Natural Language input to the NLP model.
   <br />
-  The .ipynb file after installing the required dependencies in your environment
+  In .ipynb file after installing the required dependencies in your environment
   you can simply run the queries and view the resultant SQL query formed at the 
   end of the last block.
